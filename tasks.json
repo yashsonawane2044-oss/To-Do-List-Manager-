@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Study Python ",
+        "done": false,
+        "tag": "Study ",
+        "due": "2026-04-10"
+    },
+    {
+        "title": "Homework ",
+        "done": false,
+        "tag": "2026-04-03",
+        "due": "clear "
+    },
+    {
+        "title": "HOMEWORK ",
+        "done": false,
+        "tag": "STUDY",
+        "due": "2026-04-03"
+    }
+]
